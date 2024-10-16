@@ -1,6 +1,35 @@
 # mam900-610CDM.github.io
 
+Visual Argument:
 
+
+The issue I want to address with this project is nuclear energy and the possibilities it entails. While it is a highly discussed topic I don’t think many people understand the finer details of the pros/cons. The context surrounding this is a large amount of opinion based on a relatively small pool of information that people are exposed to combined with known negative effects of radiation when in contact with humans. 
+
+My target audience is people who are not educated about the possibilities that revamping America’s nuclear infrastructure holds. I think most people’s attitudes will be somewhat negative and fearful as the consequences of disaster are very high. However the risk of disaster is very low which is the point I want to elaborate on. I think people’s main concern isn’t that nuclear energy is bad in the way coal energy is but rather that it’s directly unsafe to people whereas burning fossil fuels is an indirect way of damaging humans. 
+
+I think that more knowledge is very valuable on this, which is why I plan to use many words in my argument and format this as an informational flyer that can be printed or posted online. I want to show that nuclear energy is safe when properly overseen and the main effect I want to have is to convince people that nuclear energy is safe, then the secondary effect is to convince people that it’s profitable/worth investing into. I want to include images in the background of a cleaner world. 
+
+I am thinking of overlaying a grid to show the coverage of 1 nuclear plant vs the number of normal energy plants to show that it is much more powerful. The thing I think I’ll have the most trouble with is convincing people that it’s safe and I’m unsure of how to do that visually outside of including what the US is already doing today with nuclear power and comparing it to fossil fuels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audio Narrative: 
 Author's Statement: Originally I had planned to ask a series of friends questions about their personal lives (in the script attached). However that didn't go as planned and I encountered the problem of my friends trying their very hardest to make this project as difficult as humanly possible. There were few questions asked, however the answers are quite memorable.
 
 Also (warning), this audio is highly raw and contains some "choice words" which I plan to use effects to "bleep" out as I think more than 1 will be excessive. Something to note is that originally I was unsure of how to bring laughter into this project but after putting this start together I think this best illustrates how we bring laughter and joy to each other. What I take from this is that when you ask good friends for help thry'll usually help you, but when you ask great friends they'll come up with a unique way to help. 
