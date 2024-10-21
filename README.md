@@ -1,6 +1,20 @@
 # mam900-610CDM.github.io
 
+Professional Website: 
+
+
 Visual Argument:
+
+
+
+Updated Readme:
+
+Sources: For my information I used the department of Nuclear Energy as well as the Energy Information Administration (.gov) to collect the information to craft my ideas.
+To actually create the images I used generative AI chat-gpt with very specifically crafted statements on 10/21/24 to 
+
+
+
+
 
 
 The issue I want to address with this project is nuclear energy and the possibilities it entails. While it is a highly discussed topic I don’t think many people understand the finer details of the pros/cons. The context surrounding this is a large amount of opinion based on a relatively small pool of information that people are exposed to combined with known negative effects of radiation when in contact with humans. 

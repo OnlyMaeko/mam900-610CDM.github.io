@@ -1,0 +1,55 @@
+head {
+		background: #E1C699;
+		font-family: Garamond;
+}
+
+body {
+		background: #E1C699;
+		font-family: Garamond;
+}
+h1 {
+	font-size: 24px;
+	color: #ff9900;
+	font-family: Garamond;
+}
+h2 {
+	font-size: 20px;
+	color: #ff0000;
+	font-family: Garamond;
+	
+}
+
+h3 {
+	font-size: 18px;
+	color: #964B00;
+	font-family: Garamond;
+
+}
+h4 {
+	font-size: 16px;
+	font-family: Garamond;
+}
+h5 {
+	font-size: 14px;
+	font-family: Garamond;
+}
+p {
+	color: #964B00;
+	font-size: 16px;
+	font-family: Garamond;
+
+}
+
+h6 {
+	color: #964B00;
+	font-size: 12px;
+	font-family: Garamond;
+	
+}
+
+
+a {
+	color: #964B00
+	text-decoration: underline;
+}
+
